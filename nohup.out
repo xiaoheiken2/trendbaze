@@ -1,0 +1,2 @@
+/var/www/html/trendbaze/trendbaze.py:48: SyntaxWarning: invalid escape sequence '\s'
+  processing_handler= '''<div id="output"></div>
